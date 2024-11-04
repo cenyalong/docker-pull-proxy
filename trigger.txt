@@ -1,1 +1,1 @@
-alpine:20240606 registry.cn-hangzhou.aliyuncs.com/yaming116/alpine:20240606
+elasticsearch:7.17.0 registry.cn-hangzhou.aliyuncs.com/nginxquan/elasticsearch:7.17.0
